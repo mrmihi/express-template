@@ -1,5 +1,4 @@
 {
-    "extends": [
-        "@sliit-foss/eslint-config-internal"
-    ]
+  "extends": ["@sliit-foss/eslint-config-internal"],
+  "rules": { "no-console": "off" }
 }
